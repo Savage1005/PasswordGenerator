@@ -1,2 +1,5 @@
 # PasswordGenerator
 Javascript Password Generator
+
+
+For this assignment we had to create a password generator between 8 and 128 characters in length with prompts for upper or lowercase letters, numbers, or special characters.  It was a pretty challenging task with limited javascript experience.   First , I created arrays of all of the possibilities.  Then I created the prompt and confirms to get the input of what the user would like from their password.  I then wrote out method of acquiring the infomation and how to push all of the characters in one array to be selected randomly.  Next was the task of creating the funtion  to extract from the array at random and select random characters  and  run until it created a password that had the right amount of characters.  I then wrapped it in a function to output on the button. Once that was all functioning and I was on the right path, I went back and worked on eliminating user error in case the user did not select the proper amount of characters or what happens when the user has no confirms.    
